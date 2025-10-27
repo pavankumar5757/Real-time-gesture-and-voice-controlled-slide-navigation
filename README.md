@@ -83,22 +83,22 @@ Running the Project
 
 Hand Gestures
 
-| Gesture            | Action           |
-|--------------------|------------------|
-| 👍 Thumb Up        | Previous Slide   |
-| 🤙 Pinky Up        | Next Slide       |
-| 👆 Index + Thumb   | Draw on Slide    |
-| ✊ Closed Fist     | Erase Annotation |
-| ✌️ Two Fingers     | Zoom/Select      |
-| ✋ Full Palm       | Virtual Pointer  |
+| Gesture                     | Action           |
+|-----------------------------|------------------|
+| 👍 Thumb Up                 | Previous Slide   |
+| 🤙 Pinky Up                 | Next Slide       |
+| ✌️ Index + Middle           | Draw on Slide    |
+| 🖖 Middle, Ring & Index Up  | Erase Annotation |
+| ✌️ Two Fingers              | Zoom/Select      |
+| ☝️ Index Finger Up          | Virtual Pointer  |
 
 Voice Commands
 
 | Command              | Action                       |
-|----------------------|-----------------------------|
+|----------------------|------------------------------|
 | Next Slide           | Moves forward one slide      |
 | Previous Slide       | Moves back one slide         |
-| Jump to slide n      | Goes directly to slide n     |
+| slide n              | Goes directly to slide n     |
 
 
 📸 Screenshots
@@ -115,7 +115,7 @@ Project Guide:
 G. Vijaya Lakshmi, Assistant Professor, Department of CSE, SVPEC
 
 Developed by:  
-A. Pavan Kuma, Student, Department of CSE,SVPEC  
+A. Pavan Kumar, Student, Department of CSE,SVPEC  
 T. Dileep  
 K. Karthik  
 D. Prakash
